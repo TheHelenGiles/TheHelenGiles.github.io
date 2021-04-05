@@ -12,7 +12,7 @@ During my degree I had two summer research projects: one in exoplanet atmosphere
 Then, for my final year Masters project, I worked with Andrew Collier Cameron and Raphaëlle Haywood, studying starspot lifetimes from Kepler data.
 ​
 
-I graduated in June 2015 with a first class masters degree (:raised_hands:) in Astrophysics, and shortly after moved to Geneva in Switzerland to start my PhD at Observatoire de Genève. I continued my starspot work and was responsible detecting exoplanet transits from K2, and organising the follow-up.
+I graduated in June 2015 with a first class masters degree (:raised_hands:) in Astrophysics, and shortly after moved to Geneva in Switzerland to start my PhD at the Observatoire de Genève. I continued my starspot work and was responsible for detecting exoplanet transits from K2, and organising the follow-up.
 
 
 In June 2019 I successfully defended my thesis 'Know thy Star, Know thy Planet - Disentangling Planet Discovery & Stellar Activity'! :tada:
