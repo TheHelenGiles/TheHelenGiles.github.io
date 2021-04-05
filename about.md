@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 ### Origin story
-![Helen Giles](images/IMG_0205.JPG){: style="float: left"; height="25%" width="25%"}
-Originally from a dull town in the North West of England, I've been fascinated by space since I can remember.
-After going to Senior Space School UK (three years in a row!), I did a GCSE in Astronomy on my own during the last four months of my final year of high school.
-Two years later, after my A-levels, I left for Scotland to do a degree in Astrophysics at the University of St Andrews!
+![Helen Giles](images/IMG_0205.JPG){: style="float: right"; height="25%" width="25%"}
+Originally from a dull town in the North West of England, I've been fascinated by space since I can remember. After going to Senior Space School UK (three years in a row!), I did a GCSE in Astronomy on my own during the last four months of my final year of high school. Two years later, after my A-levels, I left for Scotland to do a degree in Astrophysics at the University of St Andrews!
 ​
 
 During my degree I had two summer research projects: one in exoplanet atmospheres with Christiane Helling at St Andrews; the other in exoplanet detection, with Chas Beichman at Caltech.
