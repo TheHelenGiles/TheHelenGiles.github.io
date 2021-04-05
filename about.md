@@ -21,6 +21,6 @@ In June 2019 I successfully defended my thesis 'Know thy Star, Know thy Planet -
 
 ### Contact me
 
-Feel free to contact me on Twitter or LinkedIn
+Feel free to contact me on Twitter or LinkedIn :point_down:
 
 <!-- [email@domain.com](mailto:email@domain.com) -->
