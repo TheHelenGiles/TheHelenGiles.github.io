@@ -17,10 +17,10 @@ Then, for my final year Masters project, I worked with Prof. Andrew Collier Came
 
 I graduated in June 2015 with a first class masters degree (:raised_hands:) in Astrophysics, and shortly after moved to Geneva in Switzerland to start my PhD at the Observatoire de Genève. I continued my starspot work and was responsible for detecting exoplanet transits from K2, and organising the follow-up.
 
-<!-- {: style="text-align:center"}
-![My PhD Jury and I after I passed! Left to right: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, me, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis](/images/Defence_Jury.jpg)
- -->
-{% include image.html url="/images/Defence_Jury.jpg" description="My PhD Jury and I after I passed! Left to right: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, me, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis" %}
+{: style="text-align:center"}
+![My PhD jury and I after I passed! Left to right: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, me, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis](/images/Defence_Jury.jpg)
+{:.image-caption}
+*The caption for my image*
 
 In June 2019 I successfully defended my thesis 'Know thy Star, Know thy Planet - Disentangling Planet Discovery & Stellar Activity'! :tada:
 

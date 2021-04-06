@@ -110,6 +110,11 @@ img {
   max-width: 100%;
 }
 
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
