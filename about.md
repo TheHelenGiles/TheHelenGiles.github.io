@@ -6,7 +6,7 @@ permalink: /about/
 ### Origin story
 
 {: style="text-align:center"}
-![Helen Giles](/images/About_Images.png)
+![Trio of pictures of me: left, by the dome of the 3.6m telescope in La Silla, Chile; middle, outside the School of Physics & Astronomy in sunshine in St Andrews; right, by my poster at the Transiting Exoplanets conference at Keele.](/images/About_Images.png)
 
 Originally from a dull town in the North West of England, I've been fascinated by space since I can remember. After going to Senior Space School UK (three years in a row!), I did a GCSE in Astronomy on my own during the last four months of my final year of high school. Two years later, after my A-levels, I left for Scotland to do a degree in Astrophysics at the University of St Andrews!
 ​
@@ -18,7 +18,7 @@ Then, for my final year Masters project, I worked with Andrew Collier Cameron an
 I graduated in June 2015 with a first class masters degree (:raised_hands:) in Astrophysics, and shortly after moved to Geneva in Switzerland to start my PhD at the Observatoire de Genève. I continued my starspot work and was responsible for detecting exoplanet transits from K2, and organising the follow-up.
 
 {: style="text-align:center"}
-![Helen Giles with her PhD Jury](/images/Defence_Jury.jpg)
+![My PhD Jury and I after I passed! Left to right: Stéphane Udry, Aline Vidotto, Mirka Dessauges, me, Heather Cegla, Dan Bayliss & Christophe Lovis](/images/Defence_Jury.jpg)
 
 In June 2019 I successfully defended my thesis 'Know thy Star, Know thy Planet - Disentangling Planet Discovery & Stellar Activity'! :tada:
 
