@@ -9,7 +9,7 @@ name: Helen Giles
 description: Astronomer Extraordinaire!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/thehelengiles/thehelengiles.github.io/master/images/logo_cropped.png
+avatar: /images/logo_cropped.png
 
 #
 # Flags below are optional
