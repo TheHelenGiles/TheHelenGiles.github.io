@@ -12,7 +12,7 @@ Originally from a dull town in the North West of England, I've been fascinated b
 
 During my degree I had two summer research projects: one in exoplanet atmospheres with Dr. Christiane Helling at St Andrews; the other in exoplanet detection, with Prof. Chas Beichman at Caltech.
 Then, for my final year Masters project, I worked with Prof. Andrew Collier Cameron and Dr. Raphaëlle Haywood, studying starspot lifetimes from Kepler data.
-​
+
 I graduated in June 2015 with a first class masters degree (:raised_hands:) in Astrophysics, and shortly after moved to Geneva in Switzerland to start my PhD at the Observatoire de Genève. I continued my starspot work and was responsible for detecting exoplanet transits from K2, and organising the follow-up.
 
 In June 2019 I successfully defended my thesis 'Know thy Star, Know thy Planet - Disentangling Planet Discovery & Stellar Activity'! :tada:
