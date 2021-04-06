@@ -19,6 +19,7 @@ I graduated in June 2015 with a first class masters degree (:raised_hands:) in A
 
 {: style="text-align:center"}
 ![My PhD jury and I after I passed! Left to right: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, me, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis](/images/Defence_Jury.jpg)
+{:.image-caption}
 *The PhD jury and I post-defence! Left to right: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, brand new Dr. Helen Giles, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis*
 
 In June 2019 I successfully defended my thesis 'Know thy Star, Know thy Planet - Disentangling Planet Discovery & Stellar Activity'! :tada:
