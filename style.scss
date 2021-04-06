@@ -100,7 +100,7 @@ ul ul, ol ul {
 
 em, i {
   font-style: italic;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 strong, b {
@@ -109,11 +109,6 @@ strong, b {
 
 img {
   max-width: 100%;
-}
-
-.image-caption {
-  text-align: center;
-  color: $orange;
 }
 
 // Fixes images in popup boxes from Google Translate
