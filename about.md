@@ -8,7 +8,7 @@ permalink: /about/
 {: style="text-align:center"}
 ![Trio of pictures of me: left, by the dome of the 3.6m telescope in La Silla, Chile; middle, outside the School of Physics & Astronomy in sunshine in St Andrews; right, by my poster at the Transiting Exoplanets conference at Keele.](/images/About_Images.png)
 
-Originally from a dull town in the North West of England, I've been fascinated by space since I can remember. After going to Senior Space School UK (three years in a row!), I did a GCSE in Astronomy on my own during the last four months of my final year of high school. Two years later, after my A-levels, I left for Scotland to do a degree in Astrophysics at the University of St Andrews!
+Originally from a dull town in the North West of England, I've been fascinated by space since I can remember. After going to Senior Space School UK (three years in a row!), I did a self-taught GCSE in Astronomy during the last four months of my final year of high school. Two years later, after my A-levels, I left for Scotland to do a degree in Astrophysics at the University of St Andrews!
 ​
 
 During my degree I had two summer research projects: one in exoplanet atmospheres with Christiane Helling at St Andrews; the other in exoplanet detection, with Chas Beichman at Caltech.
