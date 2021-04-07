@@ -1,9 +1,8 @@
 ---
 layout: page
 ---
-<div style="float: right">
-    ![Placeholder](/images/404.jpg)
-</div>
+![Placeholder](/images/404.jpg)
+{: .image-left }
 
 Hello...?
 
