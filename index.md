@@ -1,8 +1,8 @@
 ---
 layout: page
 ---
-![Placeholder](/images/404.jpg){: .align-left; width=100px}
-{: style="float: left"}
+![Placeholder](/images/404.jpg){: .align-left; height="25%" width="25%"; style="float: left"}
+<!-- {: style="float: left"} -->
 <!-- <img src="/images/404.jpg" width="200" class="align-left" alt="Placeholder"/> -->
 
 Hello...?
