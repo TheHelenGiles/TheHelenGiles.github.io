@@ -16,4 +16,5 @@ Below are a handful of key publications where I contributed with my stellar acti
 *Nava, Chantanelle; López-Morales, Mercedes; Haywood, Raphaëlle D.; Giles, Helen A. C. (2020)* The Astronomical Journal, Volume 159, Issue 1, article id. 23 [[ADS](https://ui.adsabs.harvard.edu/abs/2020AJ....159...23N/abstract)]
 
 - **Using HARPS-N to characterize the long-period planets in the PH-2 and Kepler-103 systems**
+
 *Dubber, Sophie C.; Mortier, Annelies; Rice, Ken; Nava, Chantanelle; Malavolta, Luca; Giles, Helen; Coffinet, Adrien; Charbonneau, David; Vanderburg, Andrew; Bonomo, Aldo S.; Boschin, Walter; Buchhave, Lars A.; Collier Cameron, Andrew; Cosentino, Rosario; Dumusque, Xavier; Ghedina, Adriano; Harutyunyan, Avet; Haywood, Raphaëlle D.; Latham, David; López-Morales, Mercedes Micela, Giusi; Molinari, Emilio; Pepe, Francesco A.; Phillips, David; Piotto, Giampaolo; Poretti, Ennio; Sasselov, Dimitar; Sozzetti, Alessandro; Udry, Stéphane (2019)* Monthly Notices of the Royal Astronomical Society, Volume 490, Issue 4, p.5103-5121 [[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.5103D/abstract)]
