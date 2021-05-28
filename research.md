@@ -39,7 +39,7 @@ A list of publications can be found at [ADS](https://ui.adsabs.harvard.edu/publi
 | --- | --- | --- | --- |
 2017 | UK Exoplanet Meeting | St Andrews, Scotland | Talk - Determining Starspot Lifetimes from Photometry to feed Models of Stellar Activity in Exoplanet RV Surveys
 | --- | --- | --- | --- |
-| | | Poster - A Transit-Searching Pipeline for CHEOPS Candidates in K2
+|  |  |  | Poster - A Transit-Searching Pipeline for CHEOPS Candidates in K2
 | --- | --- | --- | --- |
 2016 | CHEOPS 4th Workshop | Geneva, Switzerland | Invited Talk - ''What's eating those starspots?'': Determining a Relationship Between Starspot Size and Their Decay Timescale With Respect to Stellar Spectral Type
 | --- | --- | --- | --- |
