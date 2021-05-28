@@ -20,7 +20,7 @@ A list of publications can be found at [ADS](https://ui.adsabs.harvard.edu/publi
 ---
 ## Talks & Posters
 
-**Talk:** *Hijacking exoplanet missions for the stellar cause*\
+<span style="color:#ff7900">**Talk:**</span> *Hijacking exoplanet missions for the stellar cause*\
 RAS Specialist Discussion Meeting - 8 Nov 2019 - London, UK
 
 **Invited Talk:** *I found a monotransit, what next?*\
