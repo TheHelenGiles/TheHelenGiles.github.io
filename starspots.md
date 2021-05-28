@@ -12,5 +12,5 @@ Collaborators and I have successfully determined the lifetimes of starspots usin
 
 Below are a handful of key publications where I contributed with my stellar activity experience:
 
-**Exoplanet Imitators: A Test of Stellar Activity Behavior in Radial Velocity Signals**
-*Nava, Chantanelle; López-Morales, Mercedes; Haywood, Raphaëlle D.; Giles, Helen A. C. (2020) The Astronomical Journal, Volume 159, Issue 1, article id. 23* [[ADS](https://ui.adsabs.harvard.edu/abs/2020AJ....159...23N/abstract)]
+- **Exoplanet Imitators: A Test of Stellar Activity Behavior in Radial Velocity Signals**
+Nava, Chantanelle; López-Morales, Mercedes; Haywood, Raphaëlle D.; Giles, Helen A. C. (2020) The Astronomical Journal, Volume 159, Issue 1, article id. 23 [[ADS](https://ui.adsabs.harvard.edu/abs/2020AJ....159...23N/abstract)]
