@@ -45,7 +45,7 @@ CHEOPS 5th Workshop - 24 July 2017 - Schloss Seggau, Austria
 Transiting Exoplanets - 21 July 2017 - Keele, UK
 
 <span style="color:#ffc000">**Talk:**</span> *Determining Starspot Lifetimes from Photometry to feed Models of Stellar Activity in Exoplanet RV Surveys*\
-<span style="color:#ffc000">**Poster:** A Transit-Searching Pipeline for CHEOPS Candidates in K2\
+<span style="color:#ffc000">**Poster:**</span> A Transit-Searching Pipeline for CHEOPS Candidates in K2\
 UK Exoplanet Meeting - 16 March 2017 - St Andrews, Scotland
 
 <span style="color:#ffc000">**Invited Talk:**</span> *"What's eating those starspots?": Determining a Relationship Between Starspot Size and Their Decay Timescale With Respect to Stellar Spectral Type*\
