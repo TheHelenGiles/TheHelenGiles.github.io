@@ -13,7 +13,7 @@ Collaborators and I have successfully determined the lifetimes of starspots usin
 Below are a handful of key publications where I contributed with my stellar activity experience:
 
 - **A Kepler study of starspot lifetimes with respect to light-curve amplitude and spectral type**\
-*Giles, Helen A. C.; Collier Cameron, Andrew; Haywood, Raphaëlle D. (2017)* Monthly Notices of the Royal Astronomical Society, Volume 472, Issue 2, p.1618-1627 [[ADS](https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.1618G/abstract)]
+*<span style="background-color: #ff7900">Giles, Helen A. C.</span>; Collier Cameron, Andrew; Haywood, Raphaëlle D. (2017)* Monthly Notices of the Royal Astronomical Society, Volume 472, Issue 2, p.1618-1627 [[ADS](https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.1618G/abstract)]
 
 - **An Accurate Mass Determination for Kepler-1655b, a Moderately Irradiated World with a Significant Volatile Envelope**\
 *Haywood, Raphaëlle D.; Vanderburg, Andrew; Mortier, Annelies; Giles, Helen A. C.; López-Morales, Mercedes; Lopez, Eric D.; Malavolta, Luca; Charbonneau, David; Collier Cameron, Andrew; Coughlin, Jeffrey L.; Dressing, Courtney D.; Nava, Chantanelle; Latham, David W.; Dumusque, Xavier; Lovis, Christophe; Molinari, Emilio; Pepe, Francesco; Sozzetti, Alessandro; Udry, Stéphane; Bouchy, François Johnson, John A.; Mayor, Michel; Micela, Giusi; Phillips, David; Piotto, Giampaolo; Rice, Ken; Sasselov, Dimitar; Ségransan, Damien; Watson, Chris; Affer, Laura; Bonomo, Aldo S.; Buchhave, Lars A.; Ciardi, David R.; Fiorenzano, Aldo F.; Harutyunyan, Avet (2018)* The Astronomical Journal, Volume 155, Issue 5, article id. 203 [[ADS](https://ui.adsabs.harvard.edu/abs/2018AJ....155..203H/abstract)]
