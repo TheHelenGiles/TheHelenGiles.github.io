@@ -20,13 +20,13 @@ A list of publications can be found at [ADS](https://ui.adsabs.harvard.edu/publi
 ---
 ## Talks & Posters
 
-**Talk:** Hijacking exoplanet missions for the stellar cause\
+**Talk:** *Hijacking exoplanet missions for the stellar cause*\
 RAS Specialist Discussion Meeting - 8 Nov 2019 - London, UK
 
-**Invited Talk:** I found a monotransit, what next?\
+**Invited Talk:** *I found a monotransit, what next?*\
 TESS Data Workshop - 11 Feb 2019 - Baltimore MD, USA
 
-**Invited Splinter Talk:** Starspots and their longer lives on cool stars\
+**Invited Splinter Talk:** *Starspots and their longer lives on cool stars*\
 Cool Stars 20 - 31 July 2018 - Boston MA, USA
 
 **Poster:** The Longest Period Transiting Planet Candidate from K2\
