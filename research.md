@@ -10,7 +10,7 @@ My areas of research cover both sides of the coin when it comes to exoplanets an
 I have extensive experience in studying the effect of starspots in photometric light curves from space-based telescopes. To learn more, click [here]({{ site.baseurl }}/research/starspots).
 
 ### Exoplanet Detection
-During my time in Geneva, I was responsible for the detection of hot- and warm-Jupiters from the K2 mission, the follow on mission of the Kepler space-based telescope. Find out more [here]({{ site.baseurl }}/research/exoplanet-detection).
+During my time in Geneva, I was responsible for the detection of hot- and warm-Jupiters from the K2 mission, the follow on mission of the *Kepler* space-based telescope. Find out more [here]({{ site.baseurl }}/research/exoplanet-detection).
 
 ### Publications
 
