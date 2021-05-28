@@ -15,7 +15,7 @@ During my time in Geneva, I was responsible for the detection of hot- and warm-J
 ---
 ## Publications
 
-A list of publications can be found at [ADS](https://ui.adsabs.harvard.edu/public-libraries/yNm3bQfHR02zed4zQfDkgA), with a small selection of key publications available in the two sections above.
+A list of publications :books: can be found at [ADS](https://ui.adsabs.harvard.edu/public-libraries/yNm3bQfHR02zed4zQfDkgA), with a small selection of key publications available in the two sections above.
 
 ---
 ## Talks & Posters
