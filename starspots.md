@@ -8,6 +8,9 @@ Our knowledge of spots on the Sun (known as sunspots) is very good, especially w
 
 Collaborators and I have successfully determined the lifetimes of starspots using Kepler mission light curves for a sample of 2000+ stars. We also determined how they changed given the kind of stellar spectral type. This work has also been used for other scenarios, measuring the starspot lifetime for individual stars, where this knowledge can significantly inform further studies.
 
-### Publications
+### Key Publications
 
-See below for publications where I contributed with my stellar activity experience.
+Below are a handful of key publications where I contributed with my stellar activity experience:
+
+**Exoplanet Imitators: A Test of Stellar Activity Behavior in Radial Velocity Signals**
+*Nava, Chantanelle; López-Morales, Mercedes; Haywood, Raphaëlle D.; Giles, Helen A. C. (2020) The Astronomical Journal, Volume 159, Issue 1, article id. 23* [[ADS](https://ui.adsabs.harvard.edu/abs/2020AJ....159...23N/abstract)]
