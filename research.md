@@ -20,6 +20,7 @@ A list of publications can be found at [ADS](https://ui.adsabs.harvard.edu/publi
 ---
 ## Talks & Posters
 
+| --- | --- | --- | --- |
 2019 | RAS Specialist Discussion Meeting | London, UK | Talk - Hijacking exoplanet missions for the stellar cause
 | --- | --- | --- | --- |
 2019 | TESS Data Workshop | Baltimore MD, USA | Invited Talk - Monotransits
