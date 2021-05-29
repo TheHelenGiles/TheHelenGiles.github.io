@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test Blog \#1
+shorttitle: Day 1
 tag: 2020
 permalink: /blog/:year/:month/:day/:title:
 ---
