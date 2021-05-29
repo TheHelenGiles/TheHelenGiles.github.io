@@ -3,8 +3,9 @@ layout: default
 title: Blog
 permalink: /blog/blog-index
 ---
+# Index
 
-<body>
+<!-- <body> -->
    <!-- <div class="container" style="display: flex;"> -->
        <!-- <div style="margin: 5px; width: 70%;">
            <h2>Posts</h2>
@@ -21,15 +22,23 @@ permalink: /blog/blog-index
            </div>
        </div> -->
        <!-- <div style="margin: 5px; flex-grow: 1;"> -->
-       <h2>Index</h2>
-           {% for tag in site.tags reversed %}
-             <h3>{{ tag[0] }}</h3>
-             <ul>
-               {% for post in tag[1] %}
-                 <li>{{ post.date | date: "%B %e"}}: <i><a href="{{ post.url }}">{{ post.title }}</a></i></li>
-               {% endfor %}
-             </ul>
-           {% endfor %}
+       <!-- <h2>Index</h2> -->
+           <!-- {% for tag in site.tags reversed %} -->
+             <!-- <h3>{{ tag[0] }}</h3> -->
+             <!-- <ul> -->
+               <!-- {% for post in tag[1] %} -->
+                 <!-- <li>{{ post.date | date: "%B %e"}}: <i><a href="{{ post.url }}">{{ post.title }}</a></i></li> -->
+               <!-- {% endfor %} -->
+             <!-- </ul> -->
+           <!-- {% endfor %} -->
        <!-- </div>
    </div> -->
-</body>
+<!-- </body> -->
+{% for tag in site.tags reversed %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li>{{ post.date | date: "%B %e"}}: <i><a href="{{ post.url }}">{{ post.title }}</a></i></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
