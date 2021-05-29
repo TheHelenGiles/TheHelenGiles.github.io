@@ -6,7 +6,8 @@ permalink: /blog/
 
 # Posts
 
-(For an index of blog posts, click [here]({{ site.baseurl }}/blog/index))
+(For an index of blog posts, click [here]({{ site.baseurl }}/blog/blog-index))
+
 ---
 <div class="posts">
     {% for post in site.posts limit:50 %}
