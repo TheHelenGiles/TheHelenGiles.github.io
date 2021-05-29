@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/directory
 ---
 # Directory
----
+
 {% for tag in site.tags reversed %}
   <h3>{{ tag[0] }}</h3>
   <ul>
