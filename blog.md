@@ -6,7 +6,7 @@ permalink: /blog/
 
 <body>
    <div class="container" style="display: flex;">
-       <div style="width: 70%;">
+       <div style="margin: 5px; width: 70%;">
            <h2>Posts</h2>
            <div class="posts">
               {% for post in site.posts limit:5 %}
@@ -20,7 +20,7 @@ permalink: /blog/
               {% endfor %}
            </div>
        </div>
-       <div style="flex-grow: 1;">
+       <div style="margin: 5px; flex-grow: 1;">
        <h2>Archive</h2>
            {% for tag in site.tags reversed %}
              <h3>{{ tag[0] }}</h3>
