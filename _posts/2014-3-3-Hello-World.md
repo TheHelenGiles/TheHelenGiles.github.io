@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Test Blog \#1
+tag: 2020
+permalink: /blog/:year/:month/:day/:title:output_ext
 ---
 
 Some text for testing with.
