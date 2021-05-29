@@ -5,7 +5,7 @@ tag: 2020
 permalink: /blog/:year/:month/:day/:title:
 ---
 
-Some text for testing with.
+Some text for testing with. Editing to force a commit.
 
 ![Test picture]({{ site.baseurl }}/images/Defence_Jury.jpg)
 
