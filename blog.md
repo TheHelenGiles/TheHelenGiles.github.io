@@ -9,14 +9,13 @@ permalink: /blog/
 (For an index of blog posts, click [here]({{ site.baseurl }}/blog/blog-index))
 
 <div class="posts">
-    <!-- {% for post in site.posts limit:5 %} -->
+    {% for post in site.posts limit:5 %}
         <article class="post">
             <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <div class="entry">
-                <!-- {{ post.excerpt }} -->
-                {{ post }}
+                {{ post.excerpt }}
             </div>
-            <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
         </article>
-    <!-- {% endfor %} -->
+    {% endfor %}
 </div>
