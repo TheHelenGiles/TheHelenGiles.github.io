@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Blog
-permalink: /blog/index
+permalink: /blog/directory
 ---
-# Index
+# Directory
 ---
 {% for tag in site.tags reversed %}
   <h3>{{ tag[0] }}</h3>

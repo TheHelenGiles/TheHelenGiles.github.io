@@ -6,7 +6,7 @@ permalink: /blog/
 
 # Posts
 
-(For an index of blog posts, click [here]({{ site.baseurl }}/blog/index))
+(For a directory of blog posts, click [here]({{ site.baseurl }}/blog/directory))
 
 ---
 <div class="posts">
