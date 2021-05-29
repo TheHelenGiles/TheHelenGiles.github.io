@@ -20,6 +20,7 @@ permalink: /blog/
            </div>
        </div>
        <div style="flex-grow: 1;">
+       # Archive
            {% for tag in site.tags reversed %}
              <h3>{{ tag[0] }}</h3>
              <ul>
