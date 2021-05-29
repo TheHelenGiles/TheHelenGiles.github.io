@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /blog/blog-archive
+permalink: /blog/blog-index
 ---
 
 <body>
@@ -21,7 +21,7 @@ permalink: /blog/blog-archive
            </div>
        </div> -->
        <!-- <div style="margin: 5px; flex-grow: 1;"> -->
-       <h2>Archive</h2>
+       <h2>Index</h2>
            {% for tag in site.tags reversed %}
              <h3>{{ tag[0] }}</h3>
              <ul>
