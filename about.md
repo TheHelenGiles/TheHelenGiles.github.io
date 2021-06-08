@@ -25,4 +25,9 @@ In June 2019 I successfully defended my thesis ['Know thy Star, Know thy Planet 
 
 Feel free to contact me on Twitter or LinkedIn :point_down:
 
+### Testing CV in markdown
+
+<iframe src="/files/CV_HelenGiles.pdf" width="100%" height="500px">
+</iframe>
+
 <!-- [email@domain.com](mailto:email@domain.com) -->
