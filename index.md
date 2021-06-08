@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1" />
    <div class="container" style="display: flex;">
        <div style="margin: 5px; width: 70%;">
           <img align="center" src="/images/404.jpg" alt="Placeholder"/>
