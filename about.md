@@ -20,11 +20,3 @@ In June 2019 I successfully defended my thesis ['Know thy Star, Know thy Planet 
 {: style="text-align:center"}
 ![My PhD jury and me after I passed! Left to right: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, brand new Dr. Helen Giles, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis](/images/Defence_Jury.jpg)
 *The PhD jury and me post-defence! Left to right: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, brand new Dr. Helen Giles, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis*{: style="color: #ffc000"}
-
-### Contact me
-
-Feel free to contact me below or on Twitter or LinkedIn :point_down:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScjLtX7wIK7SfC3fnt54SrVEFGRUVhZwMFDDe0jpHp-YtNoAA/viewform?embedded=true" width="640" height="828" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-<!-- [email@domain.com](mailto:email@domain.com) -->

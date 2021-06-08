@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact Me
 permalink: /contact/
 ---
 If you would like to get a hold of me, just drop me a line with the Contact Form below, or via Twitter \& LinkedIn.
