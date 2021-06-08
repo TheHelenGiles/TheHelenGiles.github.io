@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
    <div class="container" style="display: flex;">
        <div style="margin: 5px; width: 70%;">
