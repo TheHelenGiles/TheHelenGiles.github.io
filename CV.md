@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /CV/
 ---
 See below for the most recent version of my CV.
