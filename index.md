@@ -8,7 +8,7 @@ I'm an autistic Astronomer who got her PhD in June 2019 at the Observatoire de G
 
 You can find details of my research and experience on my [Research]({{ site.baseurl }}/research/) pages, download my [CV]({{ site.baseurl }}/CV/) and can contact me with the [Contact Form]({{ site.baseurl }}/contact/).
 
-I also have a blog where I plan to ramble on about my life and experiences -- read if you dare! :flushed:
+I also have a [Blog]({{ site.baseurl }}/blog/) where I plan to ramble on about my life and experiences -- read if you dare! :flushed:
 
 {: style="text-align:center"}
 ![Another banner showing six images of Helen Giles](/images/Website_Banner2.png)
