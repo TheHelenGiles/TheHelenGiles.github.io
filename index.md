@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_en
 permalink: /en/
 ---
 {: style="text-align:center"}

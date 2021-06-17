@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_en
 title: Exoplanet Detection
 permalink: /en/research/exoplanet-detection/
 ---

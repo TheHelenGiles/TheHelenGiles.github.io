@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_en
 title: Research
 permalink: /en/research/
 ---
