@@ -5,7 +5,7 @@ permalink: /sv/blogg/
 
 # Blogginlägg
 
-(Klicka [här]({{ site.baseurl }}/sv/blogg/directory)) för en katalog med blogginlägg. Alla blogginlägg är skrivna på engelska.
+(Klicka [här]({{ site.baseurl }}/sv/blogg/katalog)) för en katalog med blogginlägg. Alla blogginlägg är skrivna på engelska.
 
 ---
 <div class="posts">
