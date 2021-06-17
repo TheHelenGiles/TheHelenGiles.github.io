@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /en/contact/
 ---
 If you want to get in touch, just drop me a line below or find me on [Twitter](https://twitter.com/TheHelenGiles) & [LinkedIn](https://www.linkedin.com/in/thehelengiles/).
 

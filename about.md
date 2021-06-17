@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /en/about/
 ---
 {: style="text-align:center"}
 ![Trio of pictures of me: left, by the dome of the 3.6m telescope in La Silla, Chile; middle, outside the School of Physics & Astronomy in sunshine in St Andrews; right, by my poster at the Transiting Exoplanets conference at Keele.](/images/About_Images.png)

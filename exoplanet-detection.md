@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exoplanet Detection
-permalink: /research/exoplanet-detection/
+permalink: /en/research/exoplanet-detection/
 ---
 
 In Geneva, as a CHEOPS PhD candidate, I designed and ran the search for hot- and warm-Jupiters in the publicly released data from the K2 mission. I was then responsible for initiating radial velocity follow-up of the best candidates using the Swiss-Euler telescope at La Silla, Chile. This was done in collaboration with the whole Exoplanet group in Geneva as well as other groups around Europe, the USA and Chile. This resulted in two planet discoveries, K2-140 b and K2-311 b, as primary author.

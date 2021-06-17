@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /en/
 ---
 {: style="text-align:center"}
 ![A banner showing six images of Helen Giles](/images/Website_Banner1.png)

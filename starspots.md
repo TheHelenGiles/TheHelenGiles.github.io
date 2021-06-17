@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Starspots
-permalink: /research/starspots/
+permalink: /en/research/starspots/
 ---
 
 Our knowledge of spots on the Sun (known as sunspots) is very good, especially when compared to our knowledge of the same phenomena on other stars. This is because we can easily make out features on the solar surface and study them, but we can't easily resolve stellar surfaces (unless they have quite extreme surface features). So, if we want to know something about starspots then we need to extrapolate that information from other sources!

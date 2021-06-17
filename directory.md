@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/directory
+permalink: /en/blog/directory
 ---
 # Directory
 

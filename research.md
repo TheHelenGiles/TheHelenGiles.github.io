@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /en/research/
 ---
 
 My areas of research cover both sides of the coin when it comes to exoplanets :earth_americas: and their host stars :star2:.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /CV/
+permalink: /en/CV/
 ---
 See below for the most recent version of my CV.
 
