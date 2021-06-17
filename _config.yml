@@ -6,7 +6,8 @@
 name: Helen Giles
 
 # Short bio or description (displayed in the header)
-description: Autistic Astronomer Extraordinaire!
+description_en: Autistic Astronomer Extraordinaire!
+description_sv: Autistisk astronom Extraordinär!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.png
