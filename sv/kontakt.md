@@ -1,7 +1,7 @@
 ---
 layout: page_sv
-title: Kontakta Mig
-permalink: /sv/kontakta-mig/
+title: Kontakt
+permalink: /sv/kontakt/
 ---
 Om du vill komma i kontakt kan du bara skicka mig en rad nedan eller hitta mig på [Twitter](https://twitter.com/TheHelenGiles) & [LinkedIn](https://www.linkedin.com/in/thehelengiles/).
 
