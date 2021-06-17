@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description_sv }}</title>
 
     {% include meta.html %}
 
@@ -10,7 +10,7 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description_sv }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="shortcut icon" type="image/x-icon" href="/images/logo.png">
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
@@ -24,7 +24,7 @@
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/sv/">{{ site.name }}</a></h1>
-            <p class="site-description">Autistisk astronom extraordinär!</p>
+            <p class="site-description">{{ site.description_sv }}</p>
           </div>
 
           <nav>
