@@ -242,9 +242,10 @@ nav {
 //
 
 .blog-post-box {
+  border: 2px solid $lightGray;
+  border-radius: 20px;
+  padding: 30em;
   margin-top: 5em;
-  padding: 3em;
-  border: 1px solid $gray;
 }
 
 .posts > .post {
