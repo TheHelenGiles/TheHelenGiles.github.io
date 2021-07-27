@@ -5,11 +5,11 @@ permalink: /sv/
 {: style="text-align:center"}
 ![En banner som visar 6 bilder av Helen Giles](/images/Website_Banner1.png)
 
-Jag är en autistisk astronom som tog sin doktorsexamen i juni 2019 hos Observatoire de Genève i Schweiz :switzerland:. Jag är specialiserad på att arbeta med ljuskurvor från rymdbaserade teleskop :telescope:: jag är en respekterad expert i studien av stjärnfläckars :star2: fotometriska signaturer; och har lång erfarenhet av exoplanetdetektering och deras karakterisering :earth_americas:.
+Jag är en autistisk astronom, och jag doktorerade i juni 2019 på Observatoire de Genève i Schweiz :switzerland:. Min specialitet är ljuskurvor från rymdbaserade teleskop, med expertis på stjärnfläckars :star2: fotometriska signaturer, och jag har lång erfarenhet av att leta efter exoplaneter och vad som karaktäriserar dem :earth_americas:.
 
-Du kan hitta information om min forskning och mina erfarenheter på min [Forskningssida]({{ site.baseurl }}/sv/forskning/), läsa mitt [CV]({{ site.baseurl }}/sv/CV/) och kan kontakta mig med mitt [Kontaktformulär]({{ site.baseurl }}/sv/kontakta-mig/).
+Information om min forskning och mina erfarenheter finns på min [Forskningssida]({{ site.baseurl }}/sv/forskning/), och i mitt [CV]({{ site.baseurl }}/sv/CV/), och du kan kontakta mig via [Kontaktformuläret]({{ site.baseurl }}/sv/kontakta-mig/).
 
-Jag har också en [Blogg]({{ site.baseurl }}/sv/blogg/) där jag planerar att vandra på mitt liv och mina erfarenheter -- läs om du vågar! :flushed:
+Jag har en [Blogg]({{ site.baseurl }}/sv/blogg/) också, där jag tänker tjata lite om mitt liv och andra erfarenheter - läs om du vågar! :flushed:
 
 {: style="text-align:center"}
 ![Ytterligare en banner som visar 6 bilder av Helen Giles](/images/Website_Banner2.png)

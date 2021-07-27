@@ -6,16 +6,17 @@ permalink: /sv/forskning/
 
 Mina forskningsområden täcker båda sidorna av myntet när det gäller exoplaneter :earth_americas: och deras värdstjärnor :star2:.
 
-### Stjärnfläckar
-Jag har lång erfarenhet av att studera effekten av stjärnfläckar i fotometriska ljuskurvor från rymdbaserade teleskop. För att lära dig mer, klicka [här]({{site.baseurl}}/sv/forskning/stjarnflackar).
 
-### Exoplanetdetektering
-Under min tid i Genève var jag ansvarig för upptäckten av heta och varma Jupiters från K2-uppdraget, uppföljningsuppdraget för det *Kepler* rymdbaserade teleskopet. Läs mer [här]({{ site.baseurl }}/sv/forskning/exoplanetdetektering).
+### Stjärnfläckar
+Jag har lång erfarenhet av att studera effekten av stjärnfläckar i fotometriska ljuskurvor från rymdbaserade teleskop. För att ta reda på mer, klicka [här]({{site.baseurl}}/sv/forskning/stjarnflackar).
+
+### Sökandet efter exoplaneter
+Under min tid i Genève ansvarade jag för upptäckter av heta och varma Jupiter-typ planeter från K2, vilket kom efter det rymdbaserade teleskopet *Kepler*. Läs mer [här]({{ site.baseurl }}/sv/forskning/exoplanetdetektering).
 
 ---
 ## Publikationer
 
-En lista över publikationer :books: finns på [ADS](https://ui.adsabs.harvard.edu/public-libraries/yNm3bQfHR02zed4zQfDkgA), med ett litet urval av viktiga publikationer som finns i de två avsnitten ovan.
+En lista över publikationer :books: finns på [ADS](https://ui.adsabs.harvard.edu/public-libraries/yNm3bQfHR02zed4zQfDkgA), med ett litet urval av de viktigaste i de två avsnitten ovan.
 
 ---
 ## Tal och affischer
