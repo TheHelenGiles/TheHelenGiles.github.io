@@ -18,6 +18,9 @@ I graduated in June 2015 with a first class masters degree (:raised_hands:) in A
 
 In June 2019 I successfully defended my thesis ['Know thy Star, Know thy Planet - Disentangling Planet Discovery & Stellar Activity'](https://ui.adsabs.harvard.edu/abs/2019PhDT........22G/abstract)! :tada:
 
+### Helen's Adventures in Data Science
+After the COVID pandemic I started working as a Data Science consultant for a consultancy company specialising in hiring and deploying autistic adults in IT. I worked with my first client, a financial institue, for 15 months where I assisted them on developing their Data Science strategy within the company.
+
 {: style="text-align:center"}
 ![The PhD jury and me post-defence! Left to right: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, brand new Dr. Helen Giles, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis](/images/Defence_Jury.jpg)
 *The PhD jury and me post-defence! Left to right: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, brand new Dr. Helen Giles, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis*{: style="color: #ffc000"}

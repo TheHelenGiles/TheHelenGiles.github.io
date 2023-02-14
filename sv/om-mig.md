@@ -18,6 +18,9 @@ I juni 2015 tillägnades jag en First Class magisterexamen (:raised_hands:) i as
 
 Jag disputerade i juni 2019 och blev godkänd med Tres Bien för min avhandling ['Know thy Star, Know thy Planet - Disentangling Planet Discovery & Stellar Activity'](https://ui.adsabs.harvard.edu/abs/2019PhDT........22G/abstract)! :tada:
 
+### Helens Äventyr i Datavetenskap
+Efter COVID-pandemin började jag arbeta som Data Science-konsult för ett konsultföretag som specialiserat sig på att anställa och placera autistiska vuxna inom IT. Jag arbetade med min första kund, ett finansinstitut, i 15 månader där jag hjälpte dem att utveckla deras Data Science-strategi inom företaget.
+
 {: style="text-align:center"}
 ![Min doktorsjury och jag efter disputationen! Från vänster till höger: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, helt ny Dr. Helen Giles, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis](/images/Defence_Jury.jpg)
 *Min doktorsjury och jag efter disputationen! Från vänster till höger: Prof. Stéphane Udry, Prof. Aline Vidotto, Dr. Mirka Dessauges, helt ny Dr. Helen Giles, Dr. Heather Cegla, Dr. Dan Bayliss & Dr. Christophe Lovis*{: style="color: #ffc000"}
